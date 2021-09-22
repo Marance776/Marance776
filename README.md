@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marance776
-- 👀 I’m interested in Wedevelop
+- 👀 I’m interested in Webdevelop
 - 🌱 I’m currently learning Laravel/PHP/Javascript/HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
